@@ -1,0 +1,3 @@
+In order to compile RSA_new.c you should have gmp librarye installed. 
+In order to compile RSA_new.c, type:
+gcc RSA_new.c -lgmp -o RSA
